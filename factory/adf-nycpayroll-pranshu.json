@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll-pranshu",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f058e7f-34dd-4d29-b16a-cc774c881254",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
